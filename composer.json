@@ -1,10 +1,10 @@
 {
-	"name": "pingpong-modules/hello",
+	"name": "laraviet/hello-module",
 	"description": "",
 	"authors": [
 		{
-			"name": "Pingpong Labs",
-			"email": "pingpong.labs@gmail.com"
+			"name": "Laraviet",
+			"email": "thanhcttsp@gmail.com"
 		}
 	],
 	"autoload": {
